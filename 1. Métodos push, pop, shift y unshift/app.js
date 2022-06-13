@@ -21,3 +21,9 @@ console.log(arrayNumeros);
 
 arrayNumeros.push(60, 70, 80);
 console.log(arrayNumeros);
+
+
+// Metodo pop
+
+arrayNumeros.pop(23);
+console.log(arrayNumeros);
