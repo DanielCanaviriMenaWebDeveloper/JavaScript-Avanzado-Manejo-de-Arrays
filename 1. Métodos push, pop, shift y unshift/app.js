@@ -4,6 +4,7 @@
 
 var arrayNumeros = [];
 
+// Método que permite adicionar elementos al array
 arrayNumeros.push(10);
 console.log(arrayNumeros);
 
@@ -32,7 +33,7 @@ console.log(arrayNumeros);
 console.log(arrayNumeros.shift());
 console.log(arrayNumeros);
 
-// Metodo unshift: Agrega elementos al principio del arreglo
+// Método unshift: Agrega elementos al principio del arreglo
 console.log(arrayNumeros.unshift(3));
 console.log(arrayNumeros);
 console.log(arrayNumeros.unshift(2));
